@@ -1,0 +1,82 @@
+/**** GENERAL ********/
+
+body {
+	font-family: Georgia, serif;
+}
+
+a {
+	color: 4d6600;
+	text-decoration: none;
+}
+
+/**** HEADER*****/
+
+h1 {
+	color: #4d6600;
+	font-size: 40px;
+	font-style: italic;
+	text-align: center;
+	background-color: #f2ffcc;
+	padding: 30px;
+	margin: 0;
+	border-bottom: 5px solid #336600;
+}
+
+h2 {
+	color: #006666;
+	font-weight: bold;
+	text-align: center;
+	background-color: #f2ffcc;
+	padding: 15px 15px 15px 15px;
+	margin: 0;
+}
+
+#nav {
+	background-color: green;
+	text-align: center;
+	list-style-type: none;
+	margin: 0;
+}
+
+#nav li {
+	display: inline-block;
+	padding: 6px 8px 6px 8px;
+	font-style: italic;
+}
+
+#nav li:hover {
+	background-color: lightgreen;
+}
+
+#nav li a {
+	color: white;
+}
+
+
+/**********************CONTENT***********************/
+
+#content {
+	width: 600px;
+	margin: 30px auto;
+	font-family: Georgia, serif;
+	text-align: justify;
+}
+
+#content h4 {
+	border-bottom: 3px solid green;
+}
+
+#content a:hover {
+	text-decoration: underline;
+}
+
+
+
+
+
+
+
+
+
+
+
